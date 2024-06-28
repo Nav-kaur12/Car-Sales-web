@@ -1,0 +1,15 @@
+ <div className="hero-section border border-warning bg-dark text-light  d-flex align-items-center justify-content-space-evenly gap-3 p-5">
+      <div className="head-desc border border-success h-75 w-50 p-3 ">
+        <h1>Find Your Perfect</h1>
+        <h1> Ride Today</h1>
+        <h4>Over 1000+ New Cars Available Here</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo aliquid quasi animis itaque, atque praesentium rerum architecto numquam perspiciatis!
+        </p>
+        </div>
+
+        <div className= "head-pic border border-primary h-50 w-50 p-3 d-inline-block"> 
+        <img src="" alt="..."/>    
+
+        </div>
+
+    </div>
